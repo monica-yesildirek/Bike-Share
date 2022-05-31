@@ -106,7 +106,7 @@ The Cyclistic trip data was evaluated and found useful for analysis. A license f
 ## PROCESS - Data Transformation and Loading
 
 ### Data Cleaning and Storage
-The complete process and explanation can be found at `Bike-Share/2 - Transform and Load/Transform_Load.R`.
+The complete process and explanation can be found at `Bike-Share/2 - Transform and Load/Transform_Load.R`. In this step, data was transformed using R then loaded to Google Cloud Platform using `bigrquery` in R.
 
 ### Completed Deliverable
 Data was cleaned in R and imported to BigQuery in Google's Cloud Platform for team accessibility and SQL query and analysis. 
