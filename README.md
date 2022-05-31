@@ -124,16 +124,12 @@ Click [here](https://public.tableau.com/app/profile/monica.yesildirek/viz/Cyclis
 
 <a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
 <img src="https://user-images.githubusercontent.com/94379757/171060229-935371a7-d60d-4ca1-8eff-b4a2ac4070f2.JPG" alt="Cyclistic Bike Share" width="920"/> </a>
-
 <a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
 <img src="https://user-images.githubusercontent.com/94379757/171060245-1a1fae74-6a39-449c-aa34-18cd8f8c9201.JPG" alt="Cyclistic Bike Share" width="920"/> </a>
-
 <a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
 <img src="https://user-images.githubusercontent.com/94379757/171060254-49536e80-27a5-4cef-a5fa-1ae16f77f9f2.JPG" alt="Cyclistic Bike Share" width="920"/> </a>
-
 <a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
 <img src="https://user-images.githubusercontent.com/94379757/171060262-1e742481-bac6-4ad4-8f9a-5c70c763f11c.JPG" alt="Cyclistic Bike Share" width="920"/> </a>
-
 <a href="https://public.tableau.com/app/profile/monica.yesildirek/viz/CyclisticBikeShare_16538424597080/Cyclistic" target="blank">
 <img src="https://user-images.githubusercontent.com/94379757/171060276-fc3bb1e7-d2fe-48a7-8d24-a4d543024c67.JPG" alt="Cyclistic Bike Share" width="920"/> </a>
 
