@@ -9,7 +9,7 @@
 - - - -
 ## Project Purpose
 ### Summary
-This case study was a part of the Google Data Analytics Capstone course project. The goal of the project was to use tools and concepts learned throughout the certificate to provide a solution to the fictional stakeholder needs. Tools used in the project included R, R Studio, BigQuery, SQL in the Google Cloud Platform, and Tableau. The use of the various tools offered a complete beginning to end solution for the case study.
+This case study was a part of the Google Data Analytics Capstone course project. The goal of the project was to use tools and concepts learned throughout the certificate to provide a beginning to end solution for the fictional stakeholder needs. Tools used in the project included R, R Studio, BigQuery, SQL in the Google Cloud Platform, and Tableau.
 
 ### Google Data Analytics Professional Certificate
 The professional certificate that provided this case study can be found on [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics).
