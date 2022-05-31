@@ -113,7 +113,7 @@ Data was cleaned in R and imported to BigQuery in Google's Cloud Platform for te
 
 - [x] Documentation of any cleaning or manipulation of data
 - - - -
-## ANALYZE & SHARE - Analysis and Visualizations
+## ANALYZE and SHARE - Analysis and Visualizations
 
 ### Analysis
 Descriptive statistics were used to determine key differences between Cyclistic members and casual riders by day of the week and by month. Visualizations simplified analysis and the use of Tableau provided a means to share and update results.
