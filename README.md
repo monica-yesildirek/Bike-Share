@@ -14,7 +14,7 @@ This case study was a part of the Google Data Analytics Capstone course project.
 ### Google Data Analytics Professional Certificate
 The professional certificate that provided this case study can be found on [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics).
 
-#### Courses included were:
+#### Courses completed include:
 1. [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics)
 2. [Asks Questions to Make Data Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics)
 3. [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation?specialization=google-data-analytics)
