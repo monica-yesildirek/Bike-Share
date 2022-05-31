@@ -109,7 +109,7 @@ The Cyclistic trip data was evaluated and found useful for analysis. A license f
 The complete process and explanation can be found at `Bike-Share/2 - Transform and Load/Transform_Load.R`. In this step, data was transformed using R then loaded to the Google Cloud Platform using the `bigrquery` library in R.
 
 ### Completed Deliverable
-Data was cleaned in R and imported to BigQuery in Google's Cloud Platform for team accessibility and SQL query and analysis. 
+Data was cleaned in R and imported to BigQuery in the Google Cloud Platform for team accessibility and SQL query. 
 
 - [x] Documentation of any cleaning or manipulation of data
 - - - -
@@ -148,7 +148,7 @@ Click [here](https://public.tableau.com/app/profile/monica.yesildirek/viz/Cyclis
 - Casual riders ride mostly on Saturdays and Sundays from June to September
 - Members ride mostly on weekdays
 - Casual riders spend more than double the time riding than members
-- Member ride length is fairly consistant all year
+- Member ride length is fairly consistent all year
 - Both members and casual riders prefer classic bikes
 
 #### 2. Why would casual riders buy Cyclistic annual memberships?
