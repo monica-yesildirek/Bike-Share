@@ -1,5 +1,5 @@
 
-# 1 - Extract the Data
+# 1 - Data Extraction
 `Extract.R` was created and used to extract 12 `.csv` files from an Amazon Web Services site into a temporary directory. The resulting data frame of 5,667,986 observations with 14 columns was then saved locally as a backup raw data file. 
 The following describes that process:
 
