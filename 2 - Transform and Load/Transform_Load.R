@@ -10,7 +10,6 @@
 
 #import libraries
 library(tidyverse)
-library(rvest)
 library(lubridate)
 library(bigrquery)
 
