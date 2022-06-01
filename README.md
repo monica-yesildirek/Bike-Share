@@ -25,7 +25,7 @@ The professional certificate that provided this case study can be found on [Cour
 8. [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone?specialization=google-data-analytics)
 
 ### Project Foundation
-The project organization used in this case study was learned in the Ask Questions to Make Data Driven Decisions course. The six data analysis phases used in this case study include:
+The project organization used in this case study was learned in the [Ask Questions to Make Data Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) course. The six data analysis phases used in this case study include:
 1. ASK
 2. PREPARE
 3. PROCESS
