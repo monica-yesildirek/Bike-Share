@@ -1,5 +1,5 @@
 # Cyclistic Bike-Share Case Study
-<img src='https://miro.medium.com/max/586/1*ddC1KfTAHBXjmGseS2drRw.png' height='210' align="right" />
+<img src='https://user-images.githubusercontent.com/94379757/171427116-443a9ec7-46b2-4479-aecf-43f3c7a9a5f5.png' height='210' align="right" />
 
 #### Author: [Monica Yesildirek](https://www.linkedin.com/in/monica-yesildirek/)
 #### Date Created: March 2022
