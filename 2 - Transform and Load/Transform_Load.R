@@ -51,7 +51,7 @@ bq_names = c("Mar_2021", "Apr_2021", "May_2021", "Jun_2021", "Jul_2021", "Aug_20
 names(cyclistic_trips) = bq_names
 
 #============================================
-#STEP 2: LOAD DATA
+#STEP 3: LOAD DATA
 #============================================
 
 #split data frames
